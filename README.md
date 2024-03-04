@@ -1,16 +1,24 @@
-### Hi there 👋
+# Ciao Amici! 🌸
 
-<!--
-**emelynhadasa/emelynhadasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm **Emelyn Hadasa**, but you can call me **Emmy**. 🌱
 
-Here are some ideas to get you started:
+I'm currently on a magical journey through the world of computing at [President University](https://president.ac.id/id/) and proudly graduated from the [Dicoding](https://www.dicoding.com/) Bootcamp FEBE. ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Quick Highlights
+
+- 🔍 Mastered in Front-End development, UI/UX, and basic Back-End.
+- 📚 A book enthusiast and aspiring writer!
+- 🎓 Computing Student at President University.
+
+### 🌟 Let's Connect!
+
+I love making new friends and collaborating on cool projects. Reach out to me:
+
+- 🔭 [LinkedIn](https://www.linkedin.com/in/emelyn-hadasa-887090214/)
+- 📫 [Instagram](https://www.instagram.com/emilyhads/)
+
+### 📖 Fun Fact
+
+I believe that coding is a form of art, and I enjoy weaving creativity into every project I undertake.
+
+Let's create something awesome together! 😄
