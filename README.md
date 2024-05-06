@@ -2,9 +2,11 @@
 
 Hey there! I'm **Emelyn Hadasa**, but you can call me **Emmy**. 🌱
 
-I'm currently pursuing a degree of computing at [President University](https://president.ac.id/id/) and proudly graduated from the [Dicoding](https://www.dicoding.com/) FEBE Bootcamp. ⚡<br>
+I'm currently pursuing a degree in computing at [President University](https://president.ac.id/id/) and proudly graduated from the [Dicoding](https://www.dicoding.com/) FEBE Bootcamp. ⚡<br>
 
 I mainly mastered Front-End advanced development, am also a writer and a huge book enthusiast! 📖
+
+Check out my most updated portfolio website 🔗 [My Portfolio Site](https://66386ed9240d767adae98122--emelyn-portfolio.netlify.app/)
 
 ### 🌟 Let's Connect!
 
