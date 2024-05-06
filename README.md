@@ -6,7 +6,7 @@ I'm currently pursuing a degree in computing at [President University](https://p
 
 I mainly mastered Front-End advanced development, am also a writer and a huge book enthusiast! 📖
 
-Check out my most updated portfolio website 🔗 [My Portfolio Site](https://66386ed9240d767adae98122--emelyn-portfolio.netlify.app/)
+Check out my most updated portfolio website 🔗 [My Portfolio Site](https://6638d94c692e08d51ff683ce--emelynha-portfolio.netlify.app/)
 
 ### 🌟 Let's Connect!
 
